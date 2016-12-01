@@ -1,0 +1,19 @@
+body {
+	background-color: silver;
+	font-family: sans-serif;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#level_title {
+	font-size: 18px;
+	color: black;		
+	font-weight: bold;
+}
+
+
+img.level_image {
+    
+    width : 900px; 
+    
+}
